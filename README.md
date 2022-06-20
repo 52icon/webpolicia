@@ -27,5 +27,6 @@ WebPolica 直译为"网站警察"，它是一个高效的跨平台的扫描违�
 
 ## 介绍
 支持跨平台
+
 ![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Linux.png)
 ![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Windows.png)
