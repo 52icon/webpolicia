@@ -25,11 +25,6 @@ WebPolica 直译为"网站警察"，它是一个高效的跨平台的扫描违�
 ## 注意事项
 国内的数据中心使用域名建设网站需要在机房的域名白名单上添加白名单信息，俗称域名过白，这样我们可以得到接入此数据中心的每个域名。
 
-## 介绍
-支持跨平台
-
-![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Linux.png)
-![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Windows.png)
 
 
 ## 使用方法
@@ -73,3 +68,10 @@ UI界面的前三个选项
 ```
 8）用于清空相关数据，例如: 待查IP地址、待查域名、过滤关键词、所有的开放端口信息、扫描报告。以及有一键清空所有内容（约等于手机上的恢复出厂设置）。
 
+
+
+## 预览
+支持跨平台
+
+![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Linux.png)
+![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Windows.png)
