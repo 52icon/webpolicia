@@ -81,3 +81,5 @@ UI界面的前三个选项
 
 ![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Linux.png)
 ![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Windows.png)
+![UI界面](https://github.com/52icon/webpolicia/raw/main/Email1.png)
+![UI界面](https://github.com/52icon/webpolicia/raw/main/Email2.png)
