@@ -80,16 +80,20 @@ UI界面的前三个选项
 支持跨平台
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/52icon/webpolicia/raw/main/UI_Linux.png" target="_blank">
     <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/UI_Linux.png">
-    <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/UI_Windows.png">
   </a>
+  <a href="https://github.com/52icon/webpolicia/raw/main/UI_Windows.png" target="_blank">
+    <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/UI_Windows.png">
+  </a>    
 </p>
 
 邮件提醒会根据是否扫描出可疑目标更换标题
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/52icon/webpolicia/raw/main/Email1.png" target="_blank">
     <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/Email1.png">
+  </a>
+ <a href="https://github.com/52icon/webpolicia/raw/main/Email2.png" target="_blank">
     <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/Email2.png">
   </a>
 </p>
