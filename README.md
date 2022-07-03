@@ -79,8 +79,13 @@ UI界面的前三个选项
 ## 预览
 支持跨平台
 
-![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Linux.png)
-![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Windows.png)
+<p align="center">
+  <a href="#" target="_blank">
+    <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/UI_Linux.png">
+    <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/UI_Windows.png">
+  </a>
+</p>
+
 <p align="center">
   <a href="#" target="_blank">
     <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/Email1.png">
