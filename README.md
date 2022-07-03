@@ -81,10 +81,10 @@ UI界面的前三个选项
 
 <p align="center">
   <a href="https://github.com/52icon/webpolicia/raw/main/UI_Linux.png" target="_blank">
-    <img width="500px" src="https://github.com/52icon/webpolicia/raw/main/UI_Linux.png">
+    <img  src="https://github.com/52icon/webpolicia/raw/main/UI_Linux.png">
   </a>
   <a href="https://github.com/52icon/webpolicia/raw/main/UI_Windows.png" target="_blank">
-    <img width="500px" src="https://github.com/52icon/webpolicia/raw/main/UI_Windows.png">
+    <img  src="https://github.com/52icon/webpolicia/raw/main/UI_Windows.png">
   </a>    
 </p>
 
