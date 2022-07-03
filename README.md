@@ -82,11 +82,9 @@ UI界面的前三个选项
 ![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Linux.png)
 ![UI界面](https://github.com/52icon/webpolicia/raw/main/UI_Windows.png)
 <p align="center">
-  <a href="https://github.com/52icon/webpolicia/raw/main/Email1.png" target="_blank">
+  <a href="#" target="_blank">
     <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/Email1.png">
     <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/Email2.png">
-    <br>
   </a>
-          <p>邮件提醒会根据是否扫描出可疑目标更换标题</p>
 </p>
-
+邮件提醒会根据是否扫描出可疑目标更换标题
