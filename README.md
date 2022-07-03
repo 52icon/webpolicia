@@ -84,8 +84,7 @@ UI界面的前三个选项
 <p align="center">
   <a href="https://github.com/52icon/webpolicia/raw/main/Email1.png" target="_blank">
     <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/Email1.png">
+    <img width="300px" src="https://github.com/52icon/webpolicia/raw/main/Email2.png">
   </a>
 </p>
-
-![UI界面](https://github.com/52icon/webpolicia/raw/main/Email2.png)
 
