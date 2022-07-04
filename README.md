@@ -71,7 +71,7 @@ UI界面的前三个选项
 
 ##配置邮件提醒
 
-**现已支持:QQ邮箱**
+**现已支持:QQ邮箱 163邮箱**
 QQ邮箱配置SMTP教程:https://www.baidu.com/s?ie=UTF-8&wd=qq%E9%82%AE%E7%AE%B1%E5%BC%80%E5%90%AFSMTP
 
 
@@ -83,6 +83,7 @@ QQ邮箱配置SMTP教程:https://www.baidu.com/s?ie=UTF-8&wd=qq%E9%82%AE%E7%AE%B
     "Receiver" : "test@ceshi.com", #收件邮箱
     "SenderAccount" : "webpolicia@ceshi.com",  #发件邮箱登录账号
     "SenderPasswd" : "qazwsxedcrfv"  #发件邮箱登录密码
+    "SMTPServer" : "qq" #发信服务器，支持qq和163，默认qq
 }
 ```
 
