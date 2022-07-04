@@ -72,6 +72,8 @@ UI界面的前三个选项
 ##配置邮件提醒
 
 **现已支持:QQ邮箱**
+QQ邮箱配置SMTP教程:https://www.baidu.com/s?ie=UTF-8&wd=qq%E9%82%AE%E7%AE%B1%E5%BC%80%E5%90%AFSMTP
+
 
 修改config.json文件
 ```{JSON}
