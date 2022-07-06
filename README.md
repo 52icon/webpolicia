@@ -80,12 +80,12 @@ QQ邮箱配置SMTP教程:https://www.baidu.com/s?ie=UTF-8&wd=qq%E9%82%AE%E7%AE%B
 修改config.json文件
 ```{JSON}
 {
-    "UseEmail" : "1",  #0为关闭邮件提醒功能，1为开启邮件提醒功能
-    "Sender" : "webpolicia@ceshi.com", #发件邮箱
-    "Receiver" : "test@ceshi.com", #收件邮箱
-    "SenderAccount" : "webpolicia@ceshi.com",  #发件邮箱登录账号
-    "SenderPasswd" : "qazwsxedcrfv",  #发件邮箱登录密码
-    "SMTPServer" : "qq" #发信服务器，支持qq和163，默认qq
+    "UseEmail" : "1",                               #0为关闭邮件提醒功能，1为开启邮件提醒功能
+    "Sender" : "webpolicia@ceshi.com",              #发件邮箱
+    "Receiver" : "test@ceshi.com",                  #收件邮箱
+    "SenderAccount" : "webpolicia@ceshi.com",       #发件邮箱登录账号
+    "SenderPasswd" : "qazwsxedcrfv",                #发件邮箱登录密码
+    "SMTPServer" : "qq"                             #发信服务器，支持qq和163，默认qq
 }
 ```
 
