@@ -72,8 +72,10 @@ UI界面的前三个选项
 ##配置邮件提醒
 
 **现已支持:QQ邮箱 163邮箱**
+
 QQ邮箱配置SMTP教程:https://www.baidu.com/s?ie=UTF-8&wd=qq%E9%82%AE%E7%AE%B1%E5%BC%80%E5%90%AFSMTP
 
+163邮箱配置SMTP教程:http://help.163.com/09/1223/14/5R7P6CJ600753VB8.html?servCode=6010376
 
 修改config.json文件
 ```{JSON}
